@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="66CF7562-1FCB-4CBF-BA53-AE4568778A5D" ModuleId="Api.Common" />
+  <Module PersistentId="6B73B9FC-74B9-4DDB-BC99-53C1DD4547F8" ModuleId="Api.Ef" />
+</Modules>

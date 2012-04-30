@@ -1,0 +1,5 @@
+C:\dev\Amalgamate\Trunk\Api\Api.RegistrationServices\bin\Debug\Api.RegistrationServices.dll
+C:\dev\Amalgamate\Trunk\Api\Api.RegistrationServices\bin\Debug\Api.RegistrationServices.pdb
+C:\dev\Amalgamate\Trunk\Api\Api.RegistrationServices\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Amalgamate\Trunk\Api\Api.RegistrationServices\obj\Debug\Api.RegistrationServices.dll
+C:\dev\Amalgamate\Trunk\Api\Api.RegistrationServices\obj\Debug\Api.RegistrationServices.pdb

@@ -1,0 +1,5 @@
+C:\dev\Amalgamate\Trunk\Api\Api.GameServices\bin\Debug\Api.GameServices.dll
+C:\dev\Amalgamate\Trunk\Api\Api.GameServices\bin\Debug\Api.GameServices.pdb
+C:\dev\Amalgamate\Trunk\Api\Api.GameServices\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Amalgamate\Trunk\Api\Api.GameServices\obj\Debug\Api.GameServices.dll
+C:\dev\Amalgamate\Trunk\Api\Api.GameServices\obj\Debug\Api.GameServices.pdb
